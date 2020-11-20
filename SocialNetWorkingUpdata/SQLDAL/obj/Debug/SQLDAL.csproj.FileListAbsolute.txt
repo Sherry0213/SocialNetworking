@@ -1,0 +1,9 @@
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\SocialNetWorkingUpdata.SQLDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\SocialNetWorkingUpdata.SQLDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\DBUtility.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\obj\Debug\SocialNetWorkingUpdata.SQLDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SQLDAL\obj\Debug\SocialNetWorkingUpdata.SQLDAL.pdb

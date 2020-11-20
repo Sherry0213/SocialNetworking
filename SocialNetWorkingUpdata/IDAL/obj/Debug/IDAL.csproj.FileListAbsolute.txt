@@ -1,0 +1,5 @@
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\IDAL\bin\Debug\IDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\IDAL\bin\Debug\IDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\IDAL\obj\Debug\IDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\IDAL\obj\Debug\IDAL.pdb

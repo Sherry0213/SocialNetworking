@@ -1,0 +1,7 @@
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\bin\Debug\IDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\DALFactory\obj\Debug\DALFactory.pdb

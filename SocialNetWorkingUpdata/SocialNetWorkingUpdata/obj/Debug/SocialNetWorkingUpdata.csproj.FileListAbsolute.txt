@@ -1,0 +1,17 @@
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\BLL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.OleDbDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.SQLDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\DALFactory.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\IDAL.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\BLL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.SQLDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\DALFactory.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\IDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\SocialNetWorkingUpdata.OleDbDAL.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\obj\Debug\SocialNetWorkingUpdata.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\obj\Debug\SocialNetWorkingUpdata.pdb
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\DBUtility.dll
+C:\Users\Aen\Desktop\net file\SocialNetWorkingUpdata\SocialNetWorkingUpdata\bin\DBUtility.pdb

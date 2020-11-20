@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomePageOne.master.cs" Inherits="SocialNetWorkingUpdata.HomePageOne" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>悠悠社团网</title>
+    <style type="text/css">
+        *
+        {
+        	padding:0px;border:0px solid  #000000;
+            margin-right: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        body
+        {
+        	font-size:12px;font-family:"宋体";height:712px;
+        }
+        #container
+        {
+        	 height:900px; width:900px;margin:0px auto; 
+        }
+        #header
+        {
+        	width:900px; background-image:url('images/head.png');
+             background-repeat:no-repeat;
+            height: 201px;
+        }
+        #headerf
+        {
+        	width:266px;
+            height:159px; 
+        	margin-left:630px;float:left; 
+        	 margin-top:6px;
+        }
+        #headers
+        {
+        	clear:left; 
+        	
+        	 width:461px; 
+        	 height:40px;
+        	 margin-left:440px;
+        	 
+        }
+        #mainbody
+        {
+        	width:900px; height:747px;  
+clear:left; 
+        }
+                #copyright
+        {
+        	text-align:center;
+        	padding-top:180px;
+        	}
+
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div id="header">
+            <div id="headerf">
+            <font color="#FF0000" size="2.8px">
+                <ul id="ul1">
+         			<b><a >未登录请登录？</a></b>
+         			<a style=" color:Black"> |</a>
+        			
+                    <asp:Button ID="LoginButton" runat="server" Text="登录" BackColor="Transparent" 
+                    Height="16px" Width="60px" Font-Size="Medium" Font-Bold="True" 
+                        onclick="LoginButton_Click" />
+        			<a style=" color:Black"> |</a>
+       				<asp:Button ID="RegisterButton" runat="server" Text="注册" BackColor="Transparent" 
+                    Height="16px" Width="60px" Font-Size="Medium" Font-Bold="True" 
+                        onclick="RegisterButton_Click" />
+                 </ul>
+                 </font>
+            </div>
+            <div id="headers">
+                 
+                <asp:Button ID="FirstButton" runat="server" Text="首&nbsp;&nbsp;&nbsp;页" BackColor="Transparent" 
+                    Height="39px" Width="76px" Font-Size="Large" ForeColor="#3A9CFE" 
+                    Font-Bold="True" onclick="FirstButton_Click" />&nbsp;
+                <asp:Button ID="NewsButton" runat="server" Text="新闻发布" BackColor="Transparent" 
+                    Height="39px" Width="76px" Font-Size="Large" ForeColor="#3A9CFE" 
+                    Font-Bold="True" onclick="NewsButton_Click"/>&nbsp;
+                <asp:Button ID="StyleButton" runat="server" Text="社团活动" BackColor="Transparent" 
+                    Height="39px" Width="76px" Font-Size="Large"  ForeColor="#3A9CFE" 
+                    Font-Bold="True" onclick="StyleButton_Click"/>&nbsp;
+                <asp:Button ID="ApplyButton" runat="server" Text="申请社团" BackColor="Transparent" 
+                    Height="39px" Width="76px" Font-Size="Large"  ForeColor="#3A9CFE" 
+                    Font-Bold="True" onclick="ApplyButton_Click"/>&nbsp;
+                <asp:Button ID="PersonButton" runat="server" Text="个人信息" BackColor="Transparent" 
+                    Height="39px" Width="76px" Font-Size="Large"  ForeColor="#3A9CFE" 
+                    Font-Bold="True" onclick="PersonButton_Click"/>
+            </div>
+        </div>
+        <div id="mainbody">
+        <asp:ContentPlaceHolder id="MainBody" runat="server"></asp:ContentPlaceHolder>
+                <div id="copyright">
+        <p>勿忘初心 团队：夏德鑫 刘洪俊 冉彪   制作</p>
+        </br>
+        <p>Copyright  2017 YouYou.com 
+
+ Inc. All Rights Reserved. </p>
+        </br>
+        <p>地址：山东建筑大学悠悠社团网管理办公室&nbsp;&nbsp;&nbsp;邮编：250100</p>
+       
+        </div>
+
+        </div>
+    </div>                           
+    </form>
+</body>
+
+</html>
